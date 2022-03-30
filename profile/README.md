@@ -10,4 +10,5 @@
   <li>Open the FRC Driver station</li>
   <li>Connect joystick</li>
   <li>Enable teleoperation</li>
+  <li>More specific drive info in repository Readme files</li>
 </ol>
